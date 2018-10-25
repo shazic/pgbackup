@@ -34,10 +34,12 @@ Running Tests
 Run tests locally using ``make`` if virtualenv is active:
 
 ::
+
     $ make
 
 If virtualenvisn't active, use:
 
 ::
+
     $ pipenv run make
 
